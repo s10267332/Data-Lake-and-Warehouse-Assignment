@@ -1,5 +1,3 @@
-# Data-Lake-and-Warehosue-Assignment
-
 # Data-Lake-and-warehouse-Assignment
 
 ## Overview
